@@ -8,7 +8,7 @@ const CONFIG = {
   host: "sec-lab",
   email: "ibnul.ec@gmail.com",
   linkedin: "https://linkedin.com/in/rnb2kool",
-  github: "https://github.com/YOUR_USERNAME",   // <-- change
+  github: "https://github.com/rnb2kool",   // <-- change
   cvFile: "cv.pdf",                             // upload your CV to the repo with this name
   // Contact form delivery. Create a free form at https://formspree.io and paste its endpoint,
   // e.g. "https://formspree.io/f/abcdwxyz". Leave empty to fall back to the visitor's email app.
