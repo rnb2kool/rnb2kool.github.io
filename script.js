@@ -92,7 +92,7 @@ function showBanner() {
   print(esc(BANNER), "banner");
   print("[ ARNUB :: SEC-LAB ]", "banner-sm");
   print(`<span class="h">${CONFIG.name}</span>
-<span class="dim">PhD Researcher · Automotive Cybersecurity · SOC & Threat Intelligence</span>
+<span class="dim">PhD Researcher in Cybersecurity</span>
 
 Welcome, guest. Type ${cmdLink("help")} to see available commands, or ${cmdLink("ask")} to talk to my AI assistant.
 `);
